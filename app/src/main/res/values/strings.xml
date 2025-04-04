@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coffee_Shop_App</string>
+    <string name="error_loading_total">Erreur : Impossible de charger le montant total.</string>
+    <string name="payment_simulation_toast">Simulation du paiement pour %s</string>
+    <string name="pay_button" />
+    <string name="amount_due_label">Prix Total</string>
+    <string name="payment_summary_title">Le paiement</string>
+    <string name="add_to_cart_desc" />
+
+</resources>

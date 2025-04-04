@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonPayAction" type="id" />
+    <item name="textViewTotalLabel" type="id" />
+    <item name="textViewTotalPriceDisplay" type="id" />
+    <item name="textViewPaymentTitle" type="id" />
+</resources>
